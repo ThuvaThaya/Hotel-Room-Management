@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hotel Room Booking</string>
+    <string name="chk_date">Check-in date</string>
+    <string name="chk_out_date">Check-out date</string>
+    <string name="next">NEXT</string>
+    <string name="menu_heading">Hotel Room Reservation</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="bookingCheckInDate">Check-in date</string>
+    <string name="book">Book</string>
+    <string name="btncancel">Cancel</string>
+    <string name="bookingCheckOutTime">Check-out time</string>
+    <string name="bookingRoomTitle">Room title</string>
+    <string name="bookingNoOfRooms">No of Rooms</string>
+    <string name="bookingMobileNumber">Mobile Number</string>
+    <string name="bookingEmail">Email</string>
+    <string name="bookingFare">Fare</string>
+    <string name="bookingDiscount">Discount</string>
+    <string name="booking">Booking</string>
+    <string name="payment">Payment</string>
+    <string name="creditMonth">MM</string>
+    <string name="creditYear">YY</string>
+    <string name="card_number">Card Number</string>
+    <string name="name_on_card">Name on Card</string>
+    <string name="cvc_number">CVC Number</string>
+    <string name="totamount">Total Amount</string>
+    <string name="pay">PAY</string>
+    <string name="card_type">Card Type</string>
+
+</resources>

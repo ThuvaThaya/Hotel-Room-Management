@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_bg"
+    tools:context=".MenuActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        app:cardBackgroundColor="#FFFFFF"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="25dp">
+
+            <TextView
+                android:id="@+id/txtViewCardTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:text="@string/menu_heading"
+                android:textColor="@color/black"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/btnIdentifyTheCarMake"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/booking"
+                tools:layout_editor_absoluteX="96dp"
+                tools:layout_editor_absoluteY="197dp"
+                android:layout_margin="10dp"
+                android:onClick="onClickBooking"/>
+
+            <Button
+                android:id="@+id/btnHints"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/payment"
+                tools:layout_editor_absoluteX="161dp"
+                tools:layout_editor_absoluteY="289dp"
+                android:layout_margin="10dp"
+                android:onClick="onClickPayment"/>
+
+            <Button
+                android:id="@+id/btnIdentifyCarImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/booking_details"
+                tools:layout_editor_absoluteX="91dp"
+                tools:layout_editor_absoluteY="370dp"
+                android:layout_margin="10dp"
+                android:onClick="onClickBookingDetails"/>
+            <Button
+                android:id="@+id/btnadmin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/booking_details"
+                tools:layout_editor_absoluteX="91dp"
+                tools:layout_editor_absoluteY="370dp"
+                android:layout_margin="10dp"
+                android:onClick="onClickBookingDetailsAdmin"/>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/drawable/edit_round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/drawable/editround.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout-v21/activity_payment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_booking.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_booking_details.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_booking_details_admin.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/activity_payment.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/booking.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/booking_detail_card.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/HRB/app/src/main/res/layout/booking_detail_card_admin.xml" value="0.1814814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
