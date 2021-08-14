@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 public class MenuActivity extends AppCompatActivity {
+    //menu
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
